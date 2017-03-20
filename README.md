@@ -1,2 +1,2 @@
-# Search-Limeloader
-Tools to load a Limelight Index
+# Limeloader - Copyright (c) 2017 Qlik Inc. 
+Limelight Index Loader - Loads CSV files into Elastic Search
